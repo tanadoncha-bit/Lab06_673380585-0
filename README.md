@@ -60,7 +60,7 @@ git clone <repository-url>
 2. เข้าโฟลเดอร์โปรเจกต์
 
 ```bash
-cd demo
+cd spring-thymeleaf-demo
 ```
 
 3. รันโปรแกรม
